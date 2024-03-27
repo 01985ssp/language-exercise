@@ -2,10 +2,10 @@ num=int(input("enter the number:"))
 sum=0
 temp=num
 while(temp!=0):
-    r=num%10
+    r=temp%10
     sum+=r*r*r
     temp=temp//10
-    if(sum==num):
+if(sum==num):
         print("the given number is armstrong")
-    else:
+else:
         print("the given number is not a armstrong")
