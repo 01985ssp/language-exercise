@@ -1,0 +1,5 @@
+text='newyork is in USA'
+
+for i in text:
+    print(i , end=' ')
+    
