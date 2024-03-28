@@ -18,3 +18,4 @@ print(count)
 name="vi##j#a#y"
 count=name.count('#')
 print(c)
+print(c * "#"+n.replace("#",""))
