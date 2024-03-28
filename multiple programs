@@ -1,0 +1,20 @@
+#zfill
+str='https://www.onlinegdb.com/online_c_compiler#editor_16'
+print(str.zfill(5))
+#lower
+str='ViJaY'
+print(shttps://www.onlinegdb.com/online_c_compiler#editor_1tr.lower())
+#upper
+print(str.upper())
+str='StudentZ'
+print(max(str))
+str="hi hi hi hello"
+print(str.replace('hi','bye'))
+
+name="vi##j#a#y"
+count=name.count('#')
+print(count)
+#
+name="vi##j#a#y"
+count=name.count('#')
+print(c)
